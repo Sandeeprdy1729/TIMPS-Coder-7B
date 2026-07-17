@@ -1,10 +1,10 @@
 # TIMPS-Coder-7B
 
 <p align="center">
-  <img src="assets/benchmarks/02_donut_gauges.png" alt="TIMPS-Coder-7B Key Scores" width="100%">
+  <img src="02_donut_gauges.png" alt="TIMPS-Coder-7B Key Scores" width="100%">
 </p>
 
-> **TIMPS-Coder-7B** is a code-generation model built by fine-tuning **Qwen2.5-Coder-7B-Instruct** through a 4-step pipeline: **SFT → GRPO → DPO**, achieving state-of-the-art results on HumanEval (98.8% pass@1) among 7B-9B code models.
+> **TIMPS-Coder-7B** is a code-generation model built by fine-tuning **Qwen2.5-Coder-7B-Instruct** through a 3-step pipeline: **SFT → GRPO → DPO**, achieving state-of-the-art results on HumanEval (98.8% pass@1) among 7B-9B code models.
 
 ---
 
