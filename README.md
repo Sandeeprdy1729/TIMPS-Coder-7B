@@ -83,3 +83,8 @@ print(tokenizer.decode(model.generate(inputs, max_new_tokens=512)[0]))
 ## License
 
 This project is licensed under the [Apache-2.0 License](LICENSE).
+
+Visit timps website timps-website.vercel.app for paper 
+
+Find the model in the hugging face 
+https://huggingface.co/sandeeprdy1729/TIMPS-Coder-7B
